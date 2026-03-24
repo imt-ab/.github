@@ -49,7 +49,7 @@ Architecture-led methods and frameworks for making AI work in practice.
 
 ## Website
 
-[imtab.net](https://imtab.net)
+[imtab.net](https://imtab.net/en/)
 
 ## Contact
 
